@@ -1,0 +1,11 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#8CB78D",
+    "titleBar.inactiveBackground": "#8CB78DCC"
+    "activityBar.background": "#8CB78DCC"
+  },  
+}
